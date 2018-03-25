@@ -1,5 +1,5 @@
 {
-  "name": "context-api",
+  "name": "react-context-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,5 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://rakhaviantoni.github.io/react-context-api"
+  "homepage": "https://rakhaviantoni.github.io/rv-practice-react-context-api"
 }
